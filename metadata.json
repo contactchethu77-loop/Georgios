@@ -1,0 +1,9 @@
+{
+  "name": "Georgios",
+  "description": "A farmer-friendly F2C marketplace connecting farmers, consumers, and delivery partners with AI-powered features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
